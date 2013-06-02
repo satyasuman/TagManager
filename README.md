@@ -10,6 +10,7 @@ Usage
 ======
 
 Initialise the element as taghelper      - $(selector).TagHelper(options)
+
 Get the data that the user has entered   - $(selector).data("parsedData")
 
 Options
