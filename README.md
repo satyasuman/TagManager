@@ -6,11 +6,11 @@ to what you see in facebook invite dialog. After entering an email ID/Phone numb
 separator(which can be configured in options), the helper converts the entered text into a tag. The tag can be removed
 using the remove symbol. 
 
-USAGE
+Usage
 ======
 
-Initialise the element as taghelper      - $(selector).TagHelper(options);
-Get the data that the user has entered   - $(selector).data("parsedData");
+Initialise the element as taghelper      - $(selector).TagHelper(options)
+Get the data that the user has entered   - $(selector).data("parsedData")
 
 Options
 =======
